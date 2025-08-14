@@ -114,7 +114,7 @@ Instagram</h2>
   <p>Confira nossos produtos
   também pelo Instagram!</p>
   <a
-href="https://instagram.me/https://www.instagram.com/pitstopdacervejaexu/"
+href="https://www.instagram.com/pitstopdacervejaexu/"
     target="_blank">
     <button>Falar no Instagram</button>
   </a>
