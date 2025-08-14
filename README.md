@@ -87,7 +87,7 @@
   <!-- Chat de Atendimento -->
   <section class="chat-section">
     <h2>Chat de Atendimento</h2>
-    <form action="https://formspree.io/f/SEU_CODIGO_AQUI" method="POST">
+    <form action="https://formspree.io/f/projetapernambucorbs@gmail.com " method="POST">
       <label for="nome">Nome:</label>
       <input type="text" name="nome" id="nome" required>
 
@@ -107,6 +107,15 @@
     </a>
   </section>
 
+<!-- Chat Instagram -->
+<section class="chat-section">
+<h2>Bate-Papo pelo
+Instagram</h2>
+  <p>Confira nossos produtos
+  também pelo Instagram!</p>
+  <a
+    href="https://instagram.me/pitstopdacerveja10"
+    target="_blank">
   <!-- Lista de Bebidas -->
   <section class="bebidas-section">
     <h2>Lista de Bebidas</h2>
