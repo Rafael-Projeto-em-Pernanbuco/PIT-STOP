@@ -114,8 +114,12 @@ Instagram</h2>
   <p>Confira nossos produtos
   também pelo Instagram!</p>
   <a
-    href="https://instagram.me/pitstopdacerveja10"
+href="https://instagram.me/pitstopdacerveja10"
     target="_blank">
+    <button>Falar no Instagram</button>
+  </a>
+</section>
+    
   <!-- Lista de Bebidas -->
   <section class="bebidas-section">
     <h2>Lista de Bebidas</h2>
